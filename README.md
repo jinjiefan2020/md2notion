@@ -1,3 +1,5 @@
+add this to avoid "invalid input" pip install notion-cobertos-fork
+
 <p align="center">
     <a href="https://github.com/Cobertos/md2notion/actions" target="_blank"><img alt="build status" src="https://github.com/Cobertos/md2notion/workflows/Package%20Tests/badge.svg"></a>
     <a href="https://pypi.org/project/md2notion/" target="_blank"><img alt="pypi python versions" src="https://img.shields.io/pypi/pyversions/md2notion.svg"></a>
